@@ -1,3 +1,7 @@
 = ActsAsHavingEffectiveDate
 
+AR Plugin for handling effectiveness of one of many "has many" related models as of a specific date.
+
+
+== License
 This project rocks and uses MIT-LICENSE.
