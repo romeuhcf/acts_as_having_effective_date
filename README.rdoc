@@ -1,3 +1,5 @@
+{<img src="https://secure.travis-ci.org/romeuhcf/acts_as_having_effective_date.png?branch=master" alt="Build Status" />}[http://travis-ci.org/romeuhcf/acts_as_having_effective_date]
+
 = ActsAsHavingEffectiveDate
 
 AR Plugin for handling effectiveness of one of many "has many" related models as of a specific date.
